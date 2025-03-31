@@ -8,7 +8,7 @@ just ensure you have these prerequisites:
 - a browser that supports extensions (chrome, firefox, etc.)
 - the **[stylus](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en)** chrome extension
 - and some fair knowledge of CSS (no worries if you don't! you can ask ChatGPT or any other AI of choice)
-## usage
+## setup
 1. view the raw file
 2. copy the css
 3. go to stylus → manage → (+) symbol
